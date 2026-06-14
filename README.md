@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
