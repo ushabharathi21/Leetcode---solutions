@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
