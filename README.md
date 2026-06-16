@@ -38,6 +38,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 ## Sorting
