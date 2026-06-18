@@ -112,4 +112,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0190-reverse-bits) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
