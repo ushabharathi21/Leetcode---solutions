@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
