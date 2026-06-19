@@ -43,6 +43,7 @@
 | [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0136-single-number) |
 | [0174-dungeon-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0174-dungeon-game) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0190-reverse-bits) |
 ## Database
 |  |
