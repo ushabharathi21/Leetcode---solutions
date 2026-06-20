@@ -29,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0182-duplicate-emails) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
