@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Recursion
@@ -31,6 +32,7 @@
 | [0006-zigzag-conversion](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
@@ -116,6 +118,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0190-reverse-bits) |
 ## Database
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
