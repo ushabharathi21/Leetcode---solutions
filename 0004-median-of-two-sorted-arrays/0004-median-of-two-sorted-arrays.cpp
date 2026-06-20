@@ -1,51 +1,34 @@
 class Solution {
-    double findNthValue(vector<int> nums1, vector<int> nums2, int n) {
-        int len1 = nums1.size();
-        int len2 = nums2.size();
-
-        if (len1 > len2) {
-            return findNthValue(nums2, nums1, n);
-        }
-        if (len1 == 0) {
-            return nums2[n - 1];
-        }
-        if (n == 1) {
-            return min(nums1[0], nums2[0]);
-        }
-        int half1 = min(len1, n / 2);
-        int half2 = n - half1;
-
- 
-        if (half2 > len2) {
-            half2 = len2;
-            half1 = n - half2;
-        }
-
-        if (nums1[half1 - 1] < nums2[half2 - 1]) {
-            return findNthValue(
-                vector<int>(nums1.begin() + half1, nums1.end()), 
-                nums2, n - half1);
-        } else if (nums2[half2 - 1] < nums1[half1 - 1]) {
-            
-            return findNthValue(
-                nums1,
-                vector<int>(nums2.begin() + half2, nums2.end()),
-                n - half2);
-        }
-        return nums1[half1 - 1];
-    }
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int len1 = nums1.size();
-        int len2 = nums2.size();
+        if(nums2.size()<nums1.size()) return findMedianSortedArrays(nums2,nums1);
 
-        int total = len1 + len2;
-        if (total % 2 == 0) {
+        int n1 = nums1.size();
+        int n2 = nums2.size();
+
+        int low=0, high = n1;
+        while(low<=high){
+            int cut1 = (low+high)/2;
+            int cut2 = (n1+n2+1)/2-cut1;
+
+            int l1 = cut1 == 0 ? INT_MIN:nums1[cut1-1];
+            int l2 = cut2 == 0 ? INT_MIN:nums2[cut2-1];
+            int r1 = cut1 == n1 ? INT_MAX:nums1[cut1];
+            int r2 = cut2 == n2 ? INT_MAX:nums2[cut2];
             
-            return (findNthValue(nums1, nums2, total / 2) +
-                    findNthValue(nums1, nums2, total / 2 + 1)) / 2.0;
+            if(l1<=r2 && l2<=r1){
+                if((n1+n2)%2==0)
+                  return (max(l1,l2)+min(r1,r2))/2.0;
+                else
+                  return max(l1,l2);
+            }else if(l1>l2)
+                 high = cut1-1;
+            else
+               low = cut1+1;
+
         }
-       
-        return findNthValue(nums1, nums2, total / 2 + 1);
+
+        return 0.0;
+
     }
 };
