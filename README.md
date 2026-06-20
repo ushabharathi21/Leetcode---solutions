@@ -30,6 +30,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
