@@ -109,6 +109,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -136,4 +137,16 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
