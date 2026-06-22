@@ -15,6 +15,7 @@
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Recursion
 |  |
@@ -34,6 +35,7 @@
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
