@@ -17,6 +17,7 @@
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
+| [0326-power-of-three](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0326-power-of-three) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Recursion
 |  |
@@ -24,6 +25,7 @@
 | [0002-add-two-numbers](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
