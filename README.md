@@ -17,6 +17,7 @@
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
+| [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0342-power-of-four) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
 ## Tree
 |  |
 | ------- |
@@ -206,4 +208,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
