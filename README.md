@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0058-length-of-last-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
