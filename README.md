@@ -45,6 +45,7 @@
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -180,6 +181,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0112-path-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -204,6 +207,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -219,4 +223,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
