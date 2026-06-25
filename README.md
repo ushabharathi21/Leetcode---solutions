@@ -36,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
 | [3637-trionic-array-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3637-trionic-array-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -110,6 +112,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
