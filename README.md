@@ -35,6 +35,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0136-single-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0136-single-number) |
 | [0174-dungeon-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0174-dungeon-game) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
@@ -80,6 +82,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -97,6 +100,7 @@
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -104,6 +108,7 @@
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
