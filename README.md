@@ -155,6 +155,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
