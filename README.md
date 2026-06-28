@@ -93,6 +93,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -270,4 +271,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
