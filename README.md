@@ -70,6 +70,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0036-valid-sudoku) |
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
@@ -126,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
