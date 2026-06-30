@@ -86,6 +86,7 @@
 | [0414-third-maximum-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
+| [0566-reshape-the-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0566-reshape-the-matrix) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0174-dungeon-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0174-dungeon-game) |
+| [0566-reshape-the-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0566-reshape-the-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0415-add-strings) |
+| [0566-reshape-the-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0566-reshape-the-matrix) |
 ## Tree
 |  |
 | ------- |
