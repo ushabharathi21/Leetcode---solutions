@@ -60,6 +60,7 @@
 | [0520-detect-capital](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Sliding Window
 |  |
@@ -192,6 +193,7 @@
 | [0225-implement-stack-using-queues](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1021-remove-outermost-parentheses) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
