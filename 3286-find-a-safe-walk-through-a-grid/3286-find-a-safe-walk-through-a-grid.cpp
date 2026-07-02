@@ -4,36 +4,39 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
-        deque<pair<int, int>> dq;
+        int startHealth = health - grid[0][0];
+        if(startHealth<=0) return false;
 
-        dist[0][0] = grid[0][0];
-        dq.push_front({0,0});
+        vector<vector<int>> best(m, vector<int>(n,-1));
+        queue<tuple<int,int,int>> q;
+
+        best[0][0] = startHealth;
+        q.push({0,0,startHealth});
 
         int dr[] = {-1,1,0,0};
         int dc[] = {0,0,-1,1};
 
-        while(!dq.empty()){
-            auto[r,c] = dq.front();
-            dq.pop_front();
+        while(!q.empty()){
+            auto[r,c,currHealth] = q.front();
+            q.pop();
 
-            for(int k=0;k<4;k++){
+            if(r == m-1 && c==n-1) return true;
+
+            for(int k =0;k<4;k++){
                 int nr = r+dr[k];
                 int nc = c+dc[k];
 
-                if(nr < 0 || nr>=m || nc<0 || nc>=n) continue;
-                int cost = grid[nr][nc];
+                if(nr<0 || nr>=m || nc<0 || nc>=n) continue;
 
-                if(dist[r][c] + cost < dist[nr][nc]){
-                    dist[nr][nc] = dist[r][c] + cost;
+                int newHealth = currHealth - grid[nr][nc];
+                if(newHealth <= 0) continue;
 
-                    if(cost == 0)
-                     dq.push_front({nr,nc});
-                    else
-                     dq.push_back({nr,nc});
+                if(newHealth > best[nr][nc]){
+                    best[nr][nc] = newHealth;
+                    q.push({nr,nc,newHealth});
                 }
             }
         }
-        return dist[m-1][n-1] < health;
-     }
+        return false;
+    }
 };
