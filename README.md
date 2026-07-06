@@ -100,6 +100,7 @@
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0566-reshape-the-matrix) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
+| [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -151,6 +152,7 @@
 | [0414-third-maximum-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
+| [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
