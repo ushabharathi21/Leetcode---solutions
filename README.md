@@ -82,6 +82,7 @@
 | [0045-jump-game-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
