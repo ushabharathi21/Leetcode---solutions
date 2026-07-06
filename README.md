@@ -95,6 +95,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0566-reshape-the-matrix) |
@@ -148,6 +149,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -162,6 +164,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0119-pascals-triangle-ii) |
 | [0174-dungeon-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0174-dungeon-game) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [3620-network-recovery-pathways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3620-network-recovery-pathways) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
@@ -175,6 +178,7 @@
 | [0045-jump-game-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
