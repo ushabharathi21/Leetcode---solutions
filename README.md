@@ -96,6 +96,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0136-single-number) |
 | [0174-dungeon-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0174-dungeon-game) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
