@@ -24,6 +24,7 @@
 | [0412-fizz-buzz](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0507-perfect-number) |
+| [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -202,6 +203,7 @@
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
+| [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
