@@ -114,6 +114,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3637-trionic-array-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -129,6 +130,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -151,6 +153,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
 |  |
@@ -179,6 +183,7 @@
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3620-network-recovery-pathways) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Memoization
@@ -198,6 +203,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
 |  |
@@ -241,6 +247,7 @@
 | [0190-reverse-bits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0342-power-of-four) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Database
 |  |
 | ------- |
@@ -358,6 +365,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
