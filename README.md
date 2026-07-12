@@ -48,6 +48,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -114,6 +115,7 @@
 | [0733-flood-fill](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
 | [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -172,6 +174,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
