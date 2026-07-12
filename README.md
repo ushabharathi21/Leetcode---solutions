@@ -89,6 +89,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0031-next-permutation) |
@@ -166,6 +168,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0088-merge-sorted-array) |
