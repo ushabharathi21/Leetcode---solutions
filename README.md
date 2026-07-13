@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Array
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -140,6 +142,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -184,6 +187,7 @@
 | [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Dynamic Programming
@@ -220,6 +224,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
@@ -227,6 +232,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
