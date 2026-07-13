@@ -254,6 +254,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1291-sequential-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bit Manipulation
 |  |
