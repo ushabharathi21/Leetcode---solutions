@@ -88,6 +88,7 @@
 | [1436-destination-city](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1436-destination-city) |
 | [1668-maximum-repeating-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -182,6 +183,7 @@
 | [0455-assign-cookies](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0917-reverse-only-letters) |
+| [2000-reverse-prefix-of-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -274,6 +276,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
