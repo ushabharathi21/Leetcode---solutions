@@ -27,6 +27,7 @@
 | [0507-perfect-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0507-perfect-number) |
 | [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -139,6 +140,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -390,6 +392,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
