@@ -27,6 +27,7 @@
 | [0507-perfect-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0507-perfect-number) |
 | [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1952-three-divisors) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bit Manipulation
 |  |
@@ -398,6 +400,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
