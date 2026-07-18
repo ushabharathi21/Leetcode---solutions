@@ -340,6 +340,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -371,6 +373,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
