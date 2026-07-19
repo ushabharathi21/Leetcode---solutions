@@ -20,6 +20,7 @@
 | [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0412-fizz-buzz) |
@@ -470,4 +471,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
