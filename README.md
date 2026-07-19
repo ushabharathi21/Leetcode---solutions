@@ -62,6 +62,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -142,6 +143,7 @@
 | [1436-destination-city](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1539-kth-missing-positive-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1539-kth-missing-positive-number) |
+| [1748-sum-of-unique-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Enumeration
