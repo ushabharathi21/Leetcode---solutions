@@ -31,6 +31,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -99,6 +100,7 @@
 | [1668-maximum-repeating-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -281,6 +283,7 @@
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prefix Sum
