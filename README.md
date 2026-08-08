@@ -126,6 +126,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Array
 |  |
@@ -171,6 +172,7 @@
 | [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1436-destination-city](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -318,6 +320,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
