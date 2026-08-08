@@ -64,6 +64,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0697-degree-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0697-degree-of-an-array) |
@@ -96,6 +97,7 @@
 | [0409-longest-palindrome](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
