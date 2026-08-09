@@ -69,6 +69,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0697-degree-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0697-degree-of-an-array) |
 | [0904-fruit-into-baskets](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1436-destination-city) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -125,6 +126,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -167,6 +169,7 @@
 | [0733-flood-fill](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1288-remove-covered-intervals) |
@@ -319,6 +322,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
