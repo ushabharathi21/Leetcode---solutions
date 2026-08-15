@@ -204,6 +204,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3620-network-recovery-pathways) |
 | [3637-trionic-array-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3637-trionic-array-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3745-maximize-expression-of-three-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3745-maximize-expression-of-three-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -393,6 +394,7 @@
 | [0342-power-of-four](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0342-power-of-four) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
 | ------- |
