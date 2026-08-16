@@ -33,6 +33,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -192,6 +193,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -323,6 +325,7 @@
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -371,6 +374,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -569,6 +573,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -577,4 +582,16 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
