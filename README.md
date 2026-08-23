@@ -31,6 +31,7 @@
 | [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
@@ -114,6 +115,7 @@
 | [1436-destination-city](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1436-destination-city) |
 | [1668-maximum-repeating-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1668-maximum-repeating-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -325,6 +327,7 @@
 | [0860-lemonade-change](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0860-lemonade-change) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -573,6 +576,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0292-nim-game) |
+| [1927-sum-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 ## Segment Tree
 |  |
