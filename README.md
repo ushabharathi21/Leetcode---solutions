@@ -30,6 +30,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1952-three-divisors) |
@@ -193,6 +194,7 @@
 | [1748-sum-of-unique-elements](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
@@ -302,6 +304,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
 | [1668-maximum-repeating-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1668-maximum-repeating-substring) |
+| [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -344,6 +347,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -576,6 +580,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0292-nim-game) |
+| [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 ## Segment Tree
@@ -589,6 +594,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -597,5 +603,6 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
