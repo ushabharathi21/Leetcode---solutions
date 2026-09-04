@@ -63,6 +63,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0036-valid-sudoku) |
+| [0076-minimum-window-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +95,7 @@
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0168-excel-sheet-column-title) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0930-binary-subarrays-with-sum) |
