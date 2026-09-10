@@ -94,6 +94,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0076-minimum-window-substring) |
