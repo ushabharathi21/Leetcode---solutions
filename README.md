@@ -14,6 +14,7 @@
 | [0002-add-two-numbers](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
@@ -304,6 +305,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0118-pascals-triangle) |
@@ -604,6 +606,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Brainteaser
