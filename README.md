@@ -387,6 +387,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
@@ -458,6 +459,7 @@
 | [0112-path-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -501,6 +503,7 @@
 | [0112-path-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -529,6 +532,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -554,6 +558,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -660,4 +665,8 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
