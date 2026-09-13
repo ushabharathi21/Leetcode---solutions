@@ -322,6 +322,7 @@
 | [0410-split-array-largest-sum](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0678-valid-parenthesis-string) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1668-maximum-repeating-substring](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -478,6 +479,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -498,6 +500,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0733-flood-fill) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/3310-remove-methods-from-project) |
@@ -527,6 +530,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -556,6 +560,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -691,4 +696,8 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
