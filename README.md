@@ -32,6 +32,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/0738-monotone-increasing-digits) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1927-sum-game) |
@@ -704,4 +705,8 @@
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ushabharathi21/Leetcode---solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
