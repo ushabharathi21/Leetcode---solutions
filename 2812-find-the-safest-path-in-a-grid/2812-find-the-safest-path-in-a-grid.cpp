@@ -5,7 +5,7 @@ public:
 
     void bfs(vector<vector<int>>& grid,vector<vector<int>>& score,int n) {
         queue<pair<int, int>> q;
-        //finding all the thieves
+
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < n; j++){
                 if(grid[i][j]) {
@@ -14,7 +14,7 @@ public:
                 }
             }
         }
-        //bfs from every thief to find distance from nearest thief
+
         while(!q.empty()){
             auto t = q.front();
             q.pop();
@@ -36,6 +36,7 @@ public:
     }
 
     int maximumSafenessFactor(vector<vector<int>>& grid) {
+        ios_base::sync_with_stdio(false);cin.tie(nullptr);cout.tie(nullptr);
         int n = grid.size();
         if(grid[0][0] || grid[n - 1][n - 1]) return 0;
 
